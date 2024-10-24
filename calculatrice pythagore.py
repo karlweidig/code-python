@@ -1,6 +1,6 @@
 import math
 
-print("Voici un calculateur Python!")
+print("Voici un calculateur Python de Pythagore!")
 reponse_choix = input("Que voulez-vous connaitre !(hypothènuse [h] ou  cathète [c])")
 a = int(input("Quelle est la longueur du premier cathètes ?"))
 if reponse_choix.lower() == "h":
